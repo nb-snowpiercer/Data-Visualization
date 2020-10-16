@@ -4,6 +4,7 @@ if __name__=="__main__":
 	t = turtle.Pen();
 	t.shape('turtle');
 	t.pencolor('blue');
+	t.fillcolor('orange');
 	t.begin_fill();
 	t.fd(100);
 	t.left(72);
